@@ -1,0 +1,15 @@
+{
+    "name": "aex/packagetest-for-laravel",
+    "authors": [
+        {
+            "name": "aex",
+            "email": "email@email.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Aex\\Packagetest\\": "src/"
+        }
+    }
+}
